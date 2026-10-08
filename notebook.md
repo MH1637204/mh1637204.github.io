@@ -98,8 +98,73 @@
 
 # update with the following definition and examples:
 
-iteration	Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.	
-Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.
+<details><summary>iteration</summary>	Iterating in loops is to systematically move through each item in a set of data. Executing code for each item is an iteration of the code. Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.	
+Often, when creating a program, we need to try again and again. Then, even when it's working, we often improve on it and update it. This process of repetition and re-creating the project is called iteration.</details>
+
+<details> <summary>unit summary</summary>
+Java Intro are definitions, Java, Object-Orientated Language, class, method, console.
+  Java Output Print Statements are definitions, class.
+    Java Commenting are definitions, commenting, Internal documentation, External documentation.
+      Java String Variables are definitions, variables, strings.
+        Java Data Types are definitions, strings, integers, double, char, boolean, camelCase, 
+          Java Concatenation are definitions, make sure to do this!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+</details>
+
+
+<details> <summary>commenting</summary>
+Information in your program that does not run, but is simply meant to be informative.
+</details>
+
+
+<details> <summary>internal documentation</summary>
+Internal documentation is the helpful comments and notes written inside your code to explain what it does, making it easier for you and others to understand and maintain later.
+</details>
+
+
+<details> <summary>external documentation</summary>
+External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.
+</details>
+
+
+<details> <summary>variables</summary>
+A variable is like a box that holds the information you want.
+</details>
+
+
+<details> <summary>strings</summary>
+A string is a set of words or numbers that are surrounded by quotation marks. "Here is 1 string." ; A series of characters, such as a word or a phrase. Strings must be surrounded by quotation marks.
+    Example: "rain", "couch"
+</details>
+
+<details> <summary>integers</summary> 
+Int is short for integer, which is a data type that means a number value; Whole numbers, which can be either positive or negative.
+    Example: 12, -300
+</details>
+
+
+<details> <summary>double</summary> 
+A double variable type is used for numbers with decimals.
+    Example: 1.23, -.58
+</details>
+
+
+<details> <summary>char</summary> 
+A data type of only one character, must be surrounded by single quotes.
+    Example: 'A', '1', '$'
+</details>
+
+
+<details> <summary>boolean</summary> 
+A data type that is only true or false, kind of like binary.
+    Example: true, false
+</details>
+
+<details> <summary>camelCase</summary> 
+CamelCase is a way of writing compound words or phrases where each word starts with a capital letter and there are no spaces.
+    Example: varValue, doorOpened
+</details>
+
 
 
 
