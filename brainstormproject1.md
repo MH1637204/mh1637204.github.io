@@ -19,5 +19,6 @@ Program that is a short rpg like story,
 Program to reserve movie theater seats,
 
     -it shows all seat options and you can insert a seat number and it prints the price and if it's open, "if insertedSeat is true(aka open) print seatOpen else print seatClosed". Optional but hopefully I can add dynamic pricing, Seats get expensiver closer to showtime and cheaper in low demand or ratings.
+    
     -this might use int or double for the price, boolean whether a seat is open, char or string for the seat. Program is for moviegoers and allow people to buy seats remotely.
 
