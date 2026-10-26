@@ -8,9 +8,11 @@ Program that can convert a double number into what it would be in USD physical c
 
 
 Program that is a short rpg like story, 
+
     -decision-making and decisions allow boolean and string datatypes, boolean, i.e. if major event = true, print ending3. ending3 is a string.
 
 
 Program to reserve movie theater seats,
+
     -it shows all seat options and you can insert a seat number and it prints the price and if it's open, "if insertedSeat is open print seatOpen else print seatClosed". Optional but hopefully I can add dynamic pricing, Seats get expensiver closer to showtime and cheaper in low demand or ratings.
 
