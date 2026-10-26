@@ -16,7 +16,7 @@ Program that is a short rpg like story,
     -this program is for people who like a short story and possibly gamers, and its interactive ability will contribute to it's difference from just a regular story. Players might put in a character name (String), a decision of options to decide what to do or what to say. The program will decide what npc's do and guide the story, making events, endings, etc.
 
 
-Program to reserve movie theater seats,
+>Program to reserve movie theater seats,< SELECTED
 
     -it shows all seat options and you can insert a seat number and it prints the price and if it's open, "if insertedSeat is true(aka open) print seatOpen else print seatClosed". Optional but hopefully I can add dynamic pricing, Seats get expensiver closer to showtime and cheaper in low demand or ratings.
     
